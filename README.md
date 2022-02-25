@@ -10,9 +10,9 @@ The files in this repository were used to configure the network depicted below.
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the yaml file may be used to install only certain pieces of it, such as Filebeat.
 
 
-  -[install_elk.yml](https://github.com/Cprejean/Elkstack_Project_1/blob/main/ansible/filebeat-playbook.yml)
-  - [filebeat](https://github.com/Cprejean/Elkstack_Project_1/blob/main/ansible/filebeat-playbook.yml)
-- [metricbeat](https://github.com/Cprejean/Elkstack_Project_1/blob/main/ansible/Metricbeat-Playbook.yml)
+* [install_elk.yml](https://github.com/Cprejean/Elkstack_Project_1/blob/main/ansible/filebeat-playbook.yml)
+* [filebeat](https://github.com/Cprejean/Elkstack_Project_1/blob/main/ansible/filebeat-playbook.yml)
+* [metricbeat](https://github.com/Cprejean/Elkstack_Project_1/blob/main/ansible/Metricbeat-Playbook.yml)
 
 
 This document contains the following details:
